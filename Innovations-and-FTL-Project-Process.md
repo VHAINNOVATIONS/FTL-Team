@@ -4,12 +4,13 @@
 Spark -> Initiation -> Gate 0 -> Phase I -> Gate A -> Phase II -> Gate B -> 
 			   			       Phase III -> Gate C -> Phase IV -> Gate D -> Phase V
 
-Phase		Description			Participants
-Phase I 		Concept				VACI / VHA Innovations / FTL
-Phase II 		Feasibility			VACI / VHA Innovations / FTL / OI&T
-Phase III		Pilot					VACI / VHA Innovations / FTL / OI&T
-Phase IV		Initial Diffusion		VACI / VHA Innovations / FTL / OI&T
-Phase V		National Diffusion	OI&T
+| Phase		| Description			| Participants  						|
+|-----------|-----------------------|---------------------------------------|
+| Phase I 	| Concept				| VACI / VHA Innovations / FTL			|
+| Phase II 	| Feasibility			| VACI / VHA Innovations / FTL / OI&T	|
+| Phase III	| Pilot					| VACI / VHA Innovations / FTL / OI&T	|
+| Phase IV	| Initial Diffusion		| VACI / VHA Innovations / FTL / OI&T	|
+| Phase V	| National Diffusion	| OI&T									|
 
 ## Spark
 - Client has Initial Concept/Idea
